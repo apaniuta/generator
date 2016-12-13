@@ -1,0 +1,9 @@
+{
+  "name": "sockjs",
+  "version": "0.0.0-unreleasable",
+  "dependencies": {
+    "chance": "^1.0.4",
+    "express": "^4.14.0",
+    "sockjs": "^0.3.18"
+  }
+}

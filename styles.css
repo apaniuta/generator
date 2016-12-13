@@ -1,0 +1,26 @@
+body {
+    background-color: #F0F0F0;
+    font-family: "Arial";
+}
+
+path {
+    stroke: steelblue;
+    stroke-width: 2;
+    fill: none;
+}
+
+.axis path,
+.axis line {
+    fill: none;
+    stroke: grey;
+    stroke-width: 1;
+    shape-rendering: crispEdges;
+}
+
+#root {
+    margin: 0 auto;
+    max-width: 960px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
